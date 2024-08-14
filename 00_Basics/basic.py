@@ -16,3 +16,5 @@ elif 18.5 <= BMI <= 25:
     print("You have a perfect height and weight my friend continue!!")
 else:
     print("You are overweight, Hit GYM!!")
+
+#Bhai, ye sab khud se banaya okay without any tutorial wagre ijjat de saale xdxdxd
