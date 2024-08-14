@@ -4,12 +4,7 @@
 
 mobNo = input("Please enter your mobile No. ")
 
-while len(mobNo) != 10 :
-   print("https")
-    
-else:
-    print("You have entered correct mobile number")
+while len(mobNo) != 10:
+    mobNo = input("Invalid mobile number. Please enter a valid 10-digit mobile number: ")
 
-#-----------------+++-----------------------
-
-#2. FOR LOOP
+print("You have entered a correct mobile number.")
